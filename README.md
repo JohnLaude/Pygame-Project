@@ -1,6 +1,6 @@
 # Pygame-Project
 Author: John Laude
-Pygame Project. A platformer game that is made by following tutorials made by Kids Can Code on youtube
+Pygame Project. A platformer game that is made by following tutorials made by Kids Can Code on youtube as a basis
 https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg
 
 Resources/Spritesheets:
